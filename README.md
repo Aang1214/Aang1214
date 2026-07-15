@@ -68,4 +68,4 @@ I work at the intersection of code, data, and interactive experiences. Currently
 ## Contact
 
 - Email — martinak.mara@gmail.com
-- LinkedIn — [linkedin.com/in/marek-martinak](#)
+- LinkedIn — [linkedin.com/in/marek-martinak](https://www.linkedin.com/in/marek-martinak-49a630271/)
