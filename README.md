@@ -29,9 +29,9 @@ I work at the intersection of code, data, and interactive experiences. Currently
 
 ### Games, AR/VR & 3D
 
-- **[Project Name](#)** — Brief description. Unity / C#.
-- **[Project Name](#)** — Brief description. Unity / C# / AR or VR.
-- **[Blender Scene Studies](#)** — Lighting, HDRI workflows, and shader experiments.
+- **[Insincera](#)** — Brief description. Unity / C#.
+- **[The trolley dilemma](#)** — Brief description. Unity / C# / AR or VR.
+- **[ArtStation](#)** — Lighting, HDRI workflows, and shader experiments.
 
 > Older games-dev repositories are being cleaned up and archived; the projects pinned above are the ones I'd point a reviewer to first.
 
