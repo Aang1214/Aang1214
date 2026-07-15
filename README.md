@@ -22,10 +22,10 @@ I work at the intersection of code, data, and interactive experiences. Currently
 ### Data & Machine Learning
 
 - **[Traffic Accident Severity Classification](https://github.com/Aang1214/Dissertation)** — MSc dissertation in progress. Brazilian PRF dataset (~463k records, 2017–2023). Comparing Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM, and CatBoost across seven imbalance-handling methods (incl. SMOTE), with Optuna hyperparameter tuning and TreeSHAP explainability. Python · scikit-learn · XGBoost / LightGBM / CatBoost · SHAP.
-- **[Drug Consumption Dashboard](#)** — Five-page interactive Shiny for Python dashboard exploring the UCI Drug Consumption dataset (~1,885 respondents). Reactive filters, demographic and personality-trait views. **Deployed on Posit Connect Cloud → [live demo](#)**.
-- **[Image-Quality Impact on Low-Light Classification](#)** — ResNet50 transfer learning on the ExDark dataset. Quantified the effect of image-quality preprocessing on downstream classification accuracy using PSNR, SSIM, NIQE, and BRISQUE metrics.
-- **[Online Casino Fairness](#)** — Statistical analysis of moderator activity on online roulette across 55,565 rounds. Mann-Whitney U, Wilcoxon, Odds Ratio, ANCOVA, and Logistic Regression (Pseudo R² = 0.75). Sits at the intersection of statistics and game-system design.
-- **[Multi-Database Pipeline](#)** — End-to-end coursework pipeline routing data through MongoDB → PostgreSQL → Neo4j → XML.
+- **[Drug Consumption Dashboard](https://github.com/Aang1214/CA2_DataVisualisation)** — Five-page interactive Shiny for Python dashboard exploring the UCI Drug Consumption dataset (~1,885 respondents). Reactive filters, demographic and personality-trait views. **Deployed on Posit Connect Cloud → [live demo](https://019df30a-4156-5adf-37d3-6c3851cb1e3f.share.connect.posit.cloud/)**.
+- **[Image-Quality Impact on Low-Light Classification](https://github.com/Aang1214/CA3_MachineLearning)** — ResNet50 transfer learning on the ExDark dataset. Quantified the effect of image-quality preprocessing on downstream classification accuracy using PSNR, SSIM, NIQE, and BRISQUE metrics.
+- **[Online Casino Fairness](https://github.com/Aang1214/OnlineCasino)** — Statistical analysis of moderator activity on online roulette across 55,565 rounds. Mann-Whitney U, Wilcoxon, Odds Ratio, ANCOVA, and Logistic Regression (Pseudo R² = 0.75). Sits at the intersection of statistics and game-system design.
+- **[Multi-Database Pipeline](https://github.com/Aang1214/Multi-Database-Pipeline)** — End-to-end coursework pipeline routing data through MongoDB → PostgreSQL → Neo4j → XML.
 
 ### Games, AR/VR & 3D
 
