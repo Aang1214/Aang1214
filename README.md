@@ -29,9 +29,9 @@ I work at the intersection of code, data, and interactive experiences. Currently
 
 ### Games, AR/VR & 3D
 
-- **[Insincera](#)** — Brief description. Unity / C#.
-- **[The trolley dilemma](#)** — Brief description. Unity / C# / AR or VR.
-- **[ArtStation](#)** — Lighting, HDRI workflows, and shader experiments.
+- **[Insincera](https://github.com/Dylan-Fennelly/Insincera)** — Brief description. Unity / C#.
+- **[The trolley dilemma](https://youtu.be/aQkUr6tHaZI)** — Brief description. Unity / C# / AR or VR.
+- **[ArtStation](https://www.artstation.com/aang121)** — Lighting, HDRI workflows, and shader experiments.
 
 > Older games-dev repositories are being cleaned up and archived; the projects pinned above are the ones I'd point a reviewer to first.
 
