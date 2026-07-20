@@ -29,7 +29,13 @@ I work at the intersection of code, data, and interactive experiences. Currently
 
 ### Games, AR/VR & 3D
 
-- **[Insincera](https://github.com/Dylan-Fennelly/Insincera)** — Brief description. Unity / C#.
+- **[Insincera](https://github.com/Dylan-Fennelly/Insincera)** — 
+  BSc Final Year Project (2024–2025). Single-player VR stealth-action game 
+  with bow-based combat, dystopian setting, and branching moral choices. 
+  Unity / C#. Five-person team led by [Dylan Fennelly](https://github.com/Dylan-Fennelly). 
+  My contribution: 3D modelling and texturing, 
+  animation setup and implementation in Unity, and the final trailer.  
+  📺 [Watch trailer](https://www.youtube.com/watch?v=wVdMe6tFA7Q)
 - **[The trolley dilemma](https://youtu.be/aQkUr6tHaZI)** — Brief description. Unity / C# / AR or VR.
 - **[ArtStation](https://www.artstation.com/aang121)** — Lighting, HDRI workflows, and shader experiments.
 
