@@ -44,8 +44,6 @@ I work at the intersection of code, data, and interactive experiences. Currently
   choose the outcome from the video description.
 - **[ArtStation](https://www.artstation.com/aang121)** — Lighting, HDRI workflows, and shader experiments.
 
-> Older games-dev repositories are being cleaned up and archived; the projects pinned above are the ones I'd point a reviewer to first.
-
 ---
 
 ## Stack
