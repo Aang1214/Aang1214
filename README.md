@@ -36,7 +36,12 @@ I work at the intersection of code, data, and interactive experiences. Currently
   My contribution: 3D modelling and texturing, 
   animation setup and implementation in Unity, and the final trailer.  
   📺 [Watch trailer](https://www.youtube.com/watch?v=wVdMe6tFA7Q)
-- **[The trolley dilemma](https://youtu.be/aQkUr6tHaZI)** — Brief description. Unity / C# / AR or VR.
+- **[The Trolley Dilemma](https://youtu.be/aQkUr6tHaZI)** — 
+  Short interactive-narrative piece exploring the classic ethical thought 
+  experiment. 3D models and animation in Blender, 
+  with faceless characters that shatter on impact. Sound design in DaVinci 
+  Resolve. Published as a branching YouTube experience where viewers 
+  choose the outcome from the video description.
 - **[ArtStation](https://www.artstation.com/aang121)** — Lighting, HDRI workflows, and shader experiments.
 
 > Older games-dev repositories are being cleaned up and archived; the projects pinned above are the ones I'd point a reviewer to first.
